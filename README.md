@@ -16,7 +16,7 @@ This project is built using **HTML, CSS, and JavaScript** to practice real-world
 After deployment using **GitHub Pages**
 
 ```
-https://anuj8653.github.io/KCCITM-Clone/
+https://github.com/Vansh005/kcc-clone.git
 ```
 
 ---
@@ -83,7 +83,7 @@ kcc-clone/
 1️⃣ Download or clone the repository
 
 ```
-git clone https://github.com/Anuj8653/KCCITM-Clone.git
+https://github.com/Vansh005/kcc-clone.git
 ```
 
 2️⃣ Open the folder
@@ -130,7 +130,7 @@ All names and references belong to their respective owners.
 
 # 👨‍💻 Author
 
-**Anuj Maurya**
+**Vansh Rawal**
 
 B.Tech CSE Student
 KCC Institute of Technology & Management
